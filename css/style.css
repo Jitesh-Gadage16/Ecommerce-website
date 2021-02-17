@@ -1,36 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-Meet
-New meeting
-Join a meeting
-Hangouts
-
-(no subject)
-Inbox
-
-jitesh gadage
-8:44 PM (9 minutes ago)
-Virus-free. www.avast.com
-
-jitesh gadage
-Attachments8:46 PM (8 minutes ago)
-Virus-free. www.avast.com On Mon, Feb 15, 2021 at 8:44 PM jitesh gadage <gadagejitesh16@gmail.com> wrote: Virus-free. www.avast.com
-
-jitesh gadage <gadagejitesh16@gmail.com>
-Attachments
-8:47 PM (6 minutes ago)
-to me
-
-
-
-	Virus-free. www.avast.com
-
-Attachments area
-
 /*--
 	Author: W3Layouts
 	Author URL: http://w3layouts.com
@@ -541,7 +508,6 @@ a.navbar-brand span {
     border: 1px solid transparent;
     border-radius: 4px 4px 0 0;
     color: #c69c6c;
-
 }
 
 .nav-tabs>li>a:hover,
@@ -550,16 +516,6 @@ a.navbar-brand span {
     color: #12A7CA ! important;
     background: none ! important;
 }
-
-
-
-.nav-tabs>li>a:hover,
-.nav>li>a:focus {
-    text-decoration: none;
-    color: #12A7CA ! important;
-    background: none ! important;
-}
-
 
 .nav-tabs>li.active>a,
 .nav-tabs>li.active>a:hover,
@@ -1578,7 +1534,6 @@ h3.agileits-icons-title {
     .icon-box {
         margin: 0;
     }
-/* <<<<<<< HEAD */
 }
 
 @media (max-width: 640px) {
@@ -1637,62 +1592,6 @@ li.list-group-item1 {
     font-weight: 300;
 }
 
-
-
-@media (max-width: 640px) {
-    .icon-box {
-        float: left;
-        width: 50%;
-    }
-}
-
-@media (max-width: 480px) {
-    .bs-glyphicons li {
-        width: 31%;
-    }
-}
-
-@media (max-width: 414px) {
-    h3.agileits-icons-title {
-        font-size: 23px;
-    }
-    h3.icon-subheading {
-        font-size: 18px;
-    }
-    .bs-glyphicons li {
-        width: 31.33%;
-    }
-}
-
-@media (max-width: 384px) {
-    .icon-box {
-        float: none;
-        width: 100%;
-    }
-}
-
-
-/*-- //icons --*/
-
-
-/*--Typography--*/
-
-.well {
-    font-weight: 300;
-    font-size: 14px;
-}
-
-.list-group-item {
-    font-weight: 300;
-    font-size: 14px;
-}
-
-li.list-group-item1 {
-    font-size: 14px;
-    font-weight: 300;
-}
-
-/* >>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f */
 .typo p {
     margin: 0;
     font-size: 14px;
@@ -1904,7 +1803,6 @@ h2.typoh2 {
     .grid_3 {
         margin-bottom: 0em;
     }
-<<<<<<< HEAD
 }
 
 @media (max-width:640px) {
@@ -1958,20 +1856,6 @@ h2.typoh2 {
 }
 
 @media (max-width:480px) {
-=======
-}
-
-@media (max-width:640px) {
-    h1,
-    .h1,
-    h2,
-    .h2,
-    h3,
-    .h3 {
-        margin-top: 0px;
-        margin-bottom: 0px;
-    }
->>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f
     .grid_5 h3,
     .grid_5 h2,
     .grid_5 h1,
@@ -1979,7 +1863,6 @@ h2.typoh2 {
     .grid_5 h5,
     h3.hdg,
     h3.bars {
-<<<<<<< HEAD
         font-size: 1.2em;
     }
     .table h1 {
@@ -2417,481 +2300,6 @@ h2.typoh2 {
         width: 50rem;
         padding: 0.7rem 0;
     }
-        /* margin-bottom: .5em; */
-    }
-    .progress {
-        height: 10px;
-        margin-bottom: 10px;
-    }
-    ol.breadcrumb li,
-    .grid_3 p,
-    ul.list-group li,
-    li.list-group-item1 {
-        font-size: 14px;
-    }
-    .breadcrumb {
-        margin-bottom: 25px;
-    }
-    .well {
-        font-size: 14px;
-        margin-bottom: 10px;
-    }
-    h2.typoh2 {
-        font-size: 1.5em;
-    }
-    .label {
-        font-size: 60%;
-    }
-    .in-gp-tl {
-        padding: 0 1em;
-    }
-    .in-gp-tb {
-        padding-right: 1em;
-    }
-
-
-@media (max-width:480px) {
-    .grid_5 h3,
-    .grid_5 h2,
-    .grid_5 h1,
-    .grid_5 h4,
-    .grid_5 h5,
-    h3.hdg,
-    h3.bars {
-        font-size: 1.2em;
-    }
-    .table h1 {
-        font-size: 26px;
-    }
-    .table h2 {
-        font-size: 23px;
-    }
-    .table h3 {
-        font-size: 20px;
-    }
-    .label {
-        font-size: 53%;
-    }
-    .alert,
-    p {
-        font-size: 14px;
-    }
-    .pagination {
-        margin: 20px 0 0px;
-    }
-    .grid_3.grid_4.w3layouts {
-        margin-top: 0;
-    }
-}
-
-@media (max-width: 320px) {
-    .grid_4 {
-        margin-top: 18px;
-    }
-    h3.title {
-        font-size: 1.6em;
-    }
-    .alert,
-    p,
-    ol.breadcrumb li,
-    .grid_3 p,
-    .well,
-    ul.list-group li,
-    li.list-group-item1,
-    a.list-group-item {
-        font-size: 13px;
-    }
-    .alert {
-        padding: 10px;
-        margin-bottom: 10px;
-    }
-    ul.pagination li a {
-        font-size: 14px;
-        padding: 5px 11px;
-    }
-    .list-group {
-        margin-bottom: 10px;
-    }
-    .well {
-        padding: 10px;
-    }
-    .nav>li>a {
-        font-size: 14px;
-    }
-    table.table.table-striped,
-    .table-bordered,
-    .bs-docs-example {
-        display: none;
-    }
-}
-
-
-/*-- //typography --*/
-
-
-/*-- responsive design --*/
-
-@media (max-width: 1280px) {}
-
-@media (max-width: 1024px) {
-    .w3l-info {
-        padding: 12em 0 0;
-    }
-    .w3l-banner {
-        min-height: 530px;
-    }
-    .w3 span {
-        left: 0%;
-        top: 46%;
-    }
-    .agileits-right h4 {
-        font-size: 20px;
-    }
-    .wthree_banner_info_left_grid_left {
-        padding: 0;
-    }
-    .wthree_banner_info_left_grid_left h3 {
-        font-size: 23px;
-    }
-    .wthree_banner_info_left_grid_left p {
-        line-height: 23px;
-        margin-top: 8px;
-    }
-    .w3agile-right {
-        padding: 0 0 0 4em;
-    }
-    .w3agile-right h4 {
-        font-size: 20px;
-    }
-    .w3agile-top {
-        padding-left: 48px;
-    }
-    .w3agile-botm {
-        top: 42px;
-    }
-    .w3agile-left {
-        padding-right: 0;
-    }
-    .agileits_service_grid_btm_left2 h5 {
-        font-size: 1.3em;
-    }
-    .view-caption .w3ls-info h4 {
-        font-size: 1.3em;
-        margin-top: 6px;
-    }
-    .w3l-banner1 {
-        min-height: 200px;
-    }
-}
-
-@media (max-width: 991px) {
-    .navbar-nav>li>a {
-        padding-top: 22px;
-        padding-bottom: 20px;
-    }
-    .nav>li>a {
-        padding: 10px 9px ! important;
-    }
-    .sb-search {
-        margin-top: 9px;
-    }
-    .navbar-header {
-        margin-top: 18px;
-    }
-    .w3 {
-        font-size: 5em;
-        letter-spacing: 30px;
-    }
-    .w3l-info {
-        padding: 8em 0 0;
-    }
-    .w3 {
-        font-size: 5em;
-        padding: 0 0 67px;
-    }
-    .w3 span {
-        top: 30%;
-        font-size: 23px;
-    }
-    .w3l-banner {
-        min-height: 400px;
-    }
-    .agileits-right {
-        float: left;
-        width: 40%;
-    }
-    .agileits-mid {
-        float: left;
-        width: 20%;
-    }
-    .agileits-left {
-        float: left;
-        width: 40%;
-    }
-    .agileits-mid h2 {
-        font-size: 28px;
-        width: 56%;
-        padding: 0px 0px 23px;
-    }
-    .agileits-right h4 {
-        font-size: 18px;
-    }
-    .agileits-right h5 {
-        font-size: 30px;
-    }
-    .wthree_banner_info_left {
-        float: left;
-        width: 50%;
-        margin-bottom: 30px;
-    }
-    .agileits {
-        padding: 3em 0;
-    }
-    .wthree_banner_info {
-        padding: 1em 0 1em;
-    }
-    .newsletter {
-        min-height: 315px;
-        padding: 3em 0 3em;
-    }
-    .w3agile-left {
-        width: 50%;
-        float: left;
-    }
-    .w3agile-botm {
-        top: 32px;
-    }
-    .w3agile-right {
-        padding: 0 0 0 2em;
-        float: left;
-        width: 50%;
-    }
-    .w3agile-right h3 {
-        font-size: 29px;
-    }
-    .w3agile {
-        padding: 3em 0;
-    }
-    .agileits_service_grid_btm_left {
-        float: left;
-        width: 33.33%;
-    }
-    .agileits_services_grids_bottom {
-        padding: 0em 0 3em;
-    }
-    .w3layouts-footer h3 {
-        font-size: 30px;
-        margin-bottom: 50px;
-    }
-    .w3layouts-left p a {
-        font-size: 14px;
-    }
-    .agileits-gal,
-    .agileits-abt,
-    .agileits-ser,
-    .agileits-con,
-    .typo,
-    .w3_wthree_agileits_icons {
-        padding: 3em 0;
-    }
-    .about-right {
-        float: left;
-        width: 55%;
-    }
-    .about-left {
-        float: left;
-        width: 45%;
-    }
-    .agileits-abt .bs-example-tabs ul.nav-tabs li a {
-        font-size: 2em;
-    }
-    .tabcontent-grids p {
-        font-size: 14px;
-        margin-top: 16px;
-    }
-    .team-grids {
-        float: left;
-        width: 50%;
-        margin-bottom: 30px;
-    }
-    .view-caption {
-        height: 18%;
-    }
-    .demo>li {
-        width: 30.33%;
-    }
-    [class^='imghvr-'] figcaption,
-    [class*=' imghvr-'] figcaption {
-        padding: 2em 0em 1em;
-    }
-    .top-bar {
-        padding: 10px 0 14px;
-    }
-    .navbar-nav {
-        width: 73%;
-        margin-top: 9px;
-    }
-    .agileinfo_services_grid {
-        float: left;
-        width: 33.33%;
-    }
-    .agileinfo_services_grid1 h4 a {
-        font-size: 1.1em;
-        line-height: 1.4em;
-    }
-    .agileinfo_services_grid1 p {
-        margin-bottom: 0em;
-    }
-    .w3layouts_mail_grid_left {
-        float: left;
-        width: 33.33%;
-    }
-    .w3layouts_mail_grid_left2 {
-        float: right;
-        width: 59%;
-    }
-    .w3_agileits_mail_bottom_right textarea {
-        width: 100% !important;
-    }
-    .navbar-default .navbar-brand {
-        font-size: 30px;
-    }
-}
-
-@media screen and (max-width:767px) {
-    .navbar-default .navbar-collapse,
-    .navbar-default .navbar-form {
-        border-color: #e7e7e7;
-        background: #c69c6c;
-    }
-    .navbar-nav {
-        margin: 7.5px 0px;
-    }
-    .navbar-nav {
-        width: 100%;
-        padding-bottom: 4em;
-    }
-    .navbar-default .navbar-nav>li>a {
-        font-size: 15px;
-        text-align: center;
-    }
-    .navbar-nav>li>a {
-        line-height: 20px;
-    }
-    .sb-search {
-        margin-top: 260px;
-        right: 15px;
-    }
-    .navbar-default .navbar-toggle .icon-bar {
-        background-color: #fff;
-    }
-    .navbar-default .navbar-toggle:hover,
-    .navbar-default .navbar-toggle:focus {
-        border-color: #fff;
-    }
-    .navbar-default .navbar-toggle:hover,
-    .navbar-default .navbar-toggle:focus {
-        background-color: rgba(75, 76, 76, 0);
-    }
-    .sb-search.sb-search-open,
-    .no-js .sb-search {
-        width: 87%;
-    }
-    .sb-search-input {
-        width: 90%;
-    }
-    .top-bar {
-        padding: 10px 0 8px;
-    }
-    .navbar-nav .open .dropdown-menu {
-        text-align: center;
-    }
-}
-
-@media (max-width: 736px) {
-    .navbar-header {
-        margin-top: 16px;
-    }
-    .navbar-toggle {
-        margin-top: -5px;
-    }
-    .w3l-banner1 {
-        min-height: 160px;
-    }
-}
-
-@media (max-width: 667px) {
-    .agileits-right h4 {
-        font-size: 15px;
-        line-height: 22px;
-    }
-    .agileits-right h5 {
-        font-size: 24px;
-    }
-    .w3agile-right h3 {
-        font-size: 24px;
-    }
-    .w3agile-right h4 {
-        font-size: 15px;
-        line-height: 22px;
-    }
-    .wthree_banner_info_left_grid_left h3 {
-        font-size: 20px;
-    }
-    .agileits-abt .bs-example-tabs ul.nav-tabs li a {
-        font-size: 1.7em;
-    }
-    .demo>li {
-        width: 46.7%;
-    }
-    .w3layouts_mail_grid_left {
-        float: left;
-        width: 50%;
-        margin-bottom: 10px;
-    }
-    .w3layouts_mail_grid_left2 {
-        width: 68%;
-    }
-}
-
-@media (max-width: 640px) {
-    .navbar-toggle {
-        margin-top: -7px;
-    }
-    .w3 {
-        font-size: 4em;
-        padding: 0 0 59px;
-        letter-spacing: 17px;
-    }
-    .w3l-info {
-        padding: 6em 0 0;
-    }
-    .w3 span {
-        top: 27%;
-        font-size: 22px;
-    }
-    .w3l-banner {
-        min-height: 320px;
-    }
-    .view-caption {
-        height: 21%;
-    }
-    .agileits-abt .bs-example-tabs ul.nav-tabs li a {
-        font-size: 1.5em;
-    }
-    .w3ls_head {
-        font-size: 30px;
-    }
-    .demo>li {
-        width: 46%;
-    }
-    .w3_agileits_mail_bottom_right h3 {
-        font-size: 25px;
-    }
-}
-
-@media (max-width: 600px) {
->>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f
     .agileits-left {
         width: 80%;
     }
@@ -2981,13 +2389,10 @@ h2.typoh2 {
 }
 
 @media (max-width: 568px) {
-<<<<<<< HEAD
     .img-fluid {
         width: 40rem;
         padding: 0.7rem 0;
     }
-=======
->>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f
     .w3agile-left {
         padding: 0 0px;
     }
@@ -3011,13 +2416,10 @@ h2.typoh2 {
 }
 
 @media (max-width: 480px) {
-<<<<<<< HEAD
     .img-fluid {
         width: 40rem;
         padding: 0.7rem 0;
     }
-=======
->>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f
     .w3 {
         font-size: 3em;
         padding: 0 0 67px;
@@ -3135,16 +2537,11 @@ h2.typoh2 {
         margin-bottom: 18px;
     }
     .navbar-default .navbar-brand {
-<<<<<<< HEAD
         font-size: 20px!important;
-=======
-        font-size: 30px;
->>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f
     }
     .top-bar {
         padding: 8px 0 4px;
     }
-<<<<<<< HEAD
     .img-fluid {
         width: 35rem;
     }
@@ -3153,38 +2550,27 @@ h2.typoh2 {
 @media (max-width: 384px) {
     .img-fluid {
         width: 30rem;
-        padding: 1rem 1;
+        padding: 1rem 0;
     }
-=======
-}
-
-@media (max-width: 384px) {
->>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f
     .w3agile-top {
         padding-left: 56px;
     }
     .view-caption {
         height: 60%;
     }
-<<<<<<< HEAD
     .navbar-default .navbar-brand {
         font-size: 15px!important;
     }
-=======
->>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f
 }
 
 @media (max-width: 375px) {
     .w3agile-top {
         padding-left: 56px;
     }
-<<<<<<< HEAD
     .navbar-default .navbar-brand {
         font-size: 12px;
         color: white;
     }
-=======
->>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f
 }
 
 @media (max-width: 320px) {
@@ -3205,12 +2591,9 @@ h2.typoh2 {
     .agileits {
         padding: 2em 0;
     }
-<<<<<<< HEAD
     .navbar-default .navbar-brand {
         font-size: 15px;
     }
-=======
->>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f
     .agileits-left {
         padding-left: 0;
         width: 84%;
@@ -3383,10 +2766,7 @@ h2.typoh2 {
 
 .bg-primary1 {
     background-color: rgba(0, 0, 0, 0.2);
-<<<<<<< HEAD
     0
-=======
->>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f
 }
 
 .primay-heading2 {
@@ -3430,8 +2810,28 @@ h2.typoh2 {
 .overview__single__icon {
     padding: 0 10px;
 }
-<<<<<<< HEAD
-style.css
-Displaying style.css.
-=======
->>>>>>> 812c2b9ca8a524a12f0f5ddaff9ba88b5e81379f
+
+.section-intro__subtitle{
+    color: #000;
+    font-size: 22px
+}
+.container-row{
+    display: flex; 
+    justify-content: space-between;
+     padding-top: 3rem;
+     flex-wrap: wrap;
+}
+.continer-heading{
+    display:flex;
+    justify-content: center;
+}
+.continer-heading h1{
+   color: black;
+   font-size: 40px;
+   font-weight: bold;
+   padding: 2rem 0;
+}
+.card-title{
+    color: black;
+    font-size: 25px;
+}
