@@ -85,7 +85,8 @@ a:hover {
     width: 100%;
     z-index: 99999;
     padding: 10px 0 0px;
-    background: #C69C6C;
+    background: #ffffff;
+    color: #000;
 }
 
 
@@ -194,9 +195,9 @@ a.navbar-brand span {
     min-height: inherit;
 }
 
-.navbar-header {
+/* .navbar-header {
     margin-top: 20px;
-}
+} */
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:hover,
@@ -206,7 +207,7 @@ a.navbar-brand span {
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: #fff;
+    color: #000;
     font-size: 16px;
 }
 
