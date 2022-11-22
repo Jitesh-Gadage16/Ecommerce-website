@@ -656,6 +656,9 @@ a.navbar-brand span {
 }
 
 .agileits_service_grid_btm_left2 h5 {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
     margin: 0em 0 .5em;
     color: #12A7CA;
     font-size: 1.5em;
@@ -2764,6 +2767,14 @@ h2.typoh2 {
 
 .section-intro {
     margin: 5rem 0;
+    text-align: center;
+   
+}
+
+.section-intro .section-intro__subtitle{
+    font-size :30px;
+    font-weight:700;
+    text-transform: uppercase;
 }
 
 .primay-heading {
@@ -2855,4 +2866,10 @@ h2.typoh2 {
 
 .m-t-30{
     margin-top: 30px;
+}
+
+.socials{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
