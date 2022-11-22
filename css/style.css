@@ -154,7 +154,7 @@ a:hover {
 
 .navbar-nav {
     float: right;
-    width: 67%;
+    width: max-content; 
     padding-left: 8rem;
 }
 
@@ -207,7 +207,7 @@ a.navbar-brand span {
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: #000;
+    color: #EDBA5B;
     font-size: 16px;
 }
 
@@ -229,7 +229,7 @@ a.navbar-brand span {
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a.active {
-    color: #000000;
+    color: #EDBA5B;
 }
 
 .navbar {
@@ -1522,6 +1522,12 @@ h3.agileits-icons-title {
 }
 
 @media (max-width:768px) {
+    .desktop{
+        display:none!important
+    }
+    .mobile{
+        display:block!important
+    }
     h3.agileits-icons-title {
         font-size: 28px;
     }
@@ -2835,4 +2841,18 @@ h2.typoh2 {
 .card-title{
     color: black;
     font-size: 25px;
+}
+
+
+.desktop{
+    display:block;
+}
+
+.mobile{
+    display:none;
+}
+
+
+.m-t-30{
+    margin-top: 30px;
 }
