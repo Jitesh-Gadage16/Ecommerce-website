@@ -8,6 +8,15 @@
 
 /*-- Reset-Code --*/
 
+.nav-link,
+.navbar-toggler-icon {
+    color: #EDBA5B!important;
+}
+
+.bg-red {
+    background: #902421!important;
+}
+
 body {
     padding: 0;
     margin: 0;
@@ -154,7 +163,7 @@ a:hover {
 
 .navbar-nav {
     float: right;
-    width: max-content; 
+    width: max-content;
     padding-left: 8rem;
 }
 
@@ -194,6 +203,7 @@ a.navbar-brand span {
     position: relative;
     min-height: inherit;
 }
+
 
 /* .navbar-header {
     margin-top: 20px;
@@ -1525,11 +1535,11 @@ h3.agileits-icons-title {
 }
 
 @media (max-width:768px) {
-    .desktop{
-        display:none!important
+    .desktop {
+        display: none!important
     }
-    .mobile{
-        display:block!important
+    .mobile {
+        display: block!important
     }
     h3.agileits-icons-title {
         font-size: 28px;
@@ -2768,12 +2778,11 @@ h2.typoh2 {
 .section-intro {
     margin: 5rem 0;
     text-align: center;
-   
 }
 
-.section-intro .section-intro__subtitle{
-    font-size :30px;
-    font-weight:700;
+.section-intro .section-intro__subtitle {
+    font-size: 30px;
+    font-weight: 700;
     text-transform: uppercase;
 }
 
@@ -2829,47 +2838,53 @@ h2.typoh2 {
     padding: 0 10px;
 }
 
-.section-intro__subtitle{
+.section-intro__subtitle {
     color: #000;
     font-size: 22px
 }
-.container-row{
-    display: flex; 
+
+.container-row {
+    display: flex;
     justify-content: space-between;
-     padding-top: 3rem;
-     flex-wrap: wrap;
+    padding-top: 3rem;
+    flex-wrap: wrap;
 }
-.continer-heading{
-    display:flex;
+
+.continer-heading {
+    display: flex;
     justify-content: center;
 }
-.continer-heading h1{
-   color: black;
-   font-size: 40px;
-   font-weight: bold;
-   padding: 2rem 0;
+
+.continer-heading h1 {
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 2rem 0;
 }
-.card-title{
+
+.card-title {
     color: black;
     font-size: 25px;
 }
 
-
-.desktop{
-    display:block;
+.desktop {
+    display: block;
 }
 
-.mobile{
-    display:none;
+.mobile {
+    display: none;
 }
 
-
-.m-t-30{
+.m-t-30 {
     margin-top: 30px;
 }
 
-.socials{
+.socials {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+}
+
+align-items: center;
+
 }
